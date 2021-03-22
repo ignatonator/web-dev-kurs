@@ -1,2 +1,2 @@
 "# web-dev-kurs" 
-[check the course on tblog.pl](https://tcblog.pl/category/web-development/)
+[check the course on tcblog.pl](https://tcblog.pl/category/web-development/)
